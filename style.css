@@ -1,0 +1,107 @@
+.wrap{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.menu{
+	width: 960px;	
+}
+nav ul li a{
+	float: left;
+	padding: 10px 0 0 10px;
+	color: #fff;
+	font-weight: bold;
+}
+
+ h1{
+	padding-bottom: 15px;
+	font-size: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+ul a{
+	text-decoration: none;
+	color: black;
+}
+nav{
+	background-color: blue;
+	height: 40px;
+}
+ .menu li {
+ 	text-transform: uppercase;
+	font-family: sans-serif;
+	display: inline;
+ 	margin-right: 8px;
+}
+
+ul a:hover{
+	color:#666;
+	text-decoration: underline;
+}
+.products h3{
+	text-transform: uppercase;
+	font-family: montserrat,sans-serif;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #666;
+}
+img:hover{
+	border:1px solid #666;
+}
+.p1,.p2{
+	width: 300px;
+	
+	float: left;
+}
+.p1 li{
+	font-size: 15px;
+	list-style: none;
+	padding-bottom: 10px;
+}
+.p2 li{
+	font-size: 15px;
+
+	padding-bottom: 10px;
+	display: block;
+}
+footer{	
+	margin-top: 40px;
+	clear:both;
+}
+ 
+
+input{
+	background: white;
+	height: 35px;
+}
+input:hover{
+	background: #666;
+}
+footer h3{
+	margin-left: 415px;
+	font-family: sans-serif;
+}
+footer li{
+	margin-left: 415px;
+	
+	line-height: 25px;
+}
+
+footer li:hover{
+	color: #666;
+	text-decoration: underline;	
+}
+
+hr{
+	background-color: black;
+	height: 5px;
+	padding: 30px, 0, 30px;
+}
+.p1 ul{
+	width: 250px;
+	padding-left: 0;
+}
+.p2 ul{
+	width: 250px;
+	padding-left: 0;
+}
